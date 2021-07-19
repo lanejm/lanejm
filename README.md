@@ -1,9 +1,8 @@
 <h1 align="center">Hello 👋, I'm Joshua</h1>
 <h3 align="center" style="margin-bottom: 15px;">A passionate Frontend Developer</h3>
 
-- I’m currently working on an **Apartment Complex Website**
 
-- I’m currently learning **JavaScript**
+- I’m currently improving my **JavaScript** skills.
 
 - I’m looking for help with **job opportunities**
 
