@@ -2,7 +2,7 @@
 <h3 align="center" style="margin-bottom: 15px;">A passionate Frontend Developer</h3>
 
 
-- I’m currently improving my **JavaScript** skills.
+- I’m currently improving my **JavaScript** skills and working through the Frontend Career Path on [scrimba.com](https://scrimba.com)
 
 - I’m looking for help with **job opportunities**
 
